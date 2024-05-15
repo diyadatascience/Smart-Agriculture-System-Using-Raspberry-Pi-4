@@ -1,4 +1,4 @@
-# Smart-Agriculture-System-Using-Raspberry-Pi-4
+# Smart Agriculture System Using Raspberry Pi 4
 This repository contains the Python code and presentation for a soil moisture monitoring system utilizing a Raspberry Pi 4. The project leverages the power of Raspberry Pi and its GPIO capabilities to interface with a soil moisture sensor. The goal of this system is to automate the process of soil moisture detection, providing real-time feedback on water levels in the soil, which is crucial for optimal plant growth.
 
 # Project Overview
@@ -23,6 +23,7 @@ Efficient water management is essential in agriculture. Understanding soil moist
 This repository includes all the necessary code and a comprehensive PowerPoint presentation detailing the setup and functionality of the system, making it accessible for anyone interested in DIY electronics or smart farming solutions.
 
 # Files attached 
-
+GPIO code.ipynb: Jupyter notebook with Python code for soil moisture monitoring.
+Raspberry Pi Project.pptx: Presentation detailing the Raspberry Pi soil moisture system.
 
 
