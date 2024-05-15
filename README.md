@@ -1,7 +1,7 @@
 # Smart-Agriculture-System-Using-Raspberry-Pi-4
 This repository contains the Python code and presentation for a soil moisture monitoring system utilizing a Raspberry Pi 4. The project leverages the power of Raspberry Pi and its GPIO capabilities to interface with a soil moisture sensor. The goal of this system is to automate the process of soil moisture detection, providing real-time feedback on water levels in the soil, which is crucial for optimal plant growth.
 
-Project Overview
+# Project Overview
 The system continuously monitors the soil moisture levels, employing a straightforward mechanism involving a moisture sensor connected via an MCP3008 to the Raspberry Pi. Based on the readings from the sensor, the system activates a red LED to indicate a dehydration state, or a green LED to signal sufficient moisture. This visual feedback is an essential feature for managing irrigation in a variety of settings, from agricultural fields to domestic gardens.
 
 Components
